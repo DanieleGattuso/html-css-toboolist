@@ -7,32 +7,61 @@
 body{
 
 font-size: 14px;
-background-color: aliceblue;
+background-color: rgb(228, 231, 233);
 }
 
+header {
+
+    background-color: white;
+}
 #header-logo img{
+    
 
        vertical-align: middle;
        width: 67px;
        margin: 20px;
       
-       
-       
-       
 }
 
 #header-logo span {
 
     font-size: 70px;
-    vertical-align: middle;
-    
-    
-    
-    
-    
+   vertical-align: middle;
     
 }
    
+main {
+    margin: 9%;
+    background-color: white;
+    border: 40px;
+    padding: .5%;
+    
+}
+
+.section-button{
+
+    
+    /* background-color: #3a7fff; */
+    color: #fff;
+    border: none; 
+    border-radius: 10px; 
+    padding: 10px;
+    min-height: 30px; 
+    min-width: 90px;
 
 
+}
+
+.blue-button {
+
+    background-color: rgb(90, 164, 250);
+}
+
+.grey-button {
+
+    background-color: rgb(255, 255, 255);
+    border: solid 1px;
+    border-color: rgba(153, 152, 152, 0.842);
+    color: rgb(138, 137, 137);
+}
 
