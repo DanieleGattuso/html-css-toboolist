@@ -2,12 +2,19 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 body{
 
-font-size: 14px;
+font-size: 13px;
 background-color: rgb(243, 244, 245);
+
+}
+
+body p {
+
+    
 }
 
 header {
@@ -49,9 +56,19 @@ main {
     padding: 10px;
     min-height: 30px; 
     min-width: 90px;
-
-
 }
+    .section-button2{
+        margin: 15px;
+        
+        /* background-color: #3a7fff; */
+        color: #fff;
+        border: none; 
+        border-radius: 20px; 
+        padding: 10px;
+        min-height: 30px; 
+        min-width: 90px;
+
+    }
 
 .blue-button {
 
@@ -75,6 +92,7 @@ main {
 
 .all-p {
 
+    
     margin: 15px;
     font-size: 20px;
 
@@ -105,3 +123,4 @@ main {
 
     background-color: rgb(136, 224, 3);
 }
+
