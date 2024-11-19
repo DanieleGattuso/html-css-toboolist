@@ -7,7 +7,7 @@
 body{
 
 font-size: 14px;
-background-color: rgb(228, 231, 233);
+background-color: rgb(243, 244, 245);
 }
 
 header {
@@ -39,7 +39,7 @@ main {
 }
 
 .section-button{
-
+    margin: 15px;
     
     /* background-color: #3a7fff; */
     color: #fff;
@@ -65,3 +65,17 @@ main {
     color: rgb(138, 137, 137);
 }
 
+.general-text {
+
+    margin: 15px
+    ;
+    
+}
+
+.all-p {
+
+    margin: 15px;
+    font-size: 20px;
+
+    
+}
