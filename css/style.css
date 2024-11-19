@@ -31,10 +31,11 @@ header {
 }
    
 main {
-    margin: 9%;
+
+    margin: 3%;
     background-color: white;
     border: 40px;
-    padding: .5%;
+    padding: .8%;
     
 }
 
@@ -78,4 +79,29 @@ main {
     font-size: 20px;
 
     
+}
+
+#purple-button {
+
+    background-color: rgb(135, 14, 165);
+}
+
+#green-button {
+
+    background-color: rgb(17, 141, 83);
+}
+
+#orange-button {
+
+    background-color: orange;
+}
+
+#pink-button {
+
+    background-color: pink;
+}
+
+#green2-button {
+
+    background-color: rgb(136, 224, 3);
 }
