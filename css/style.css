@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+
+font-size: 14px;
+background-color: aliceblue;
+}
+
+#header-logo img{
+
+       vertical-align: middle;
+       width: 67px;
+       margin: 20px;
+      
+       
+       
+       
+}
+
+#header-logo span {
+
+    font-size: 70px;
+    vertical-align: middle;
+    
+    
+    
+    
+    
+    
+}
+   
+
+
+
